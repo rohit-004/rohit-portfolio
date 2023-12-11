@@ -1,9 +1,8 @@
 import Header, { HeaderPhone } from "./components/Header";
 import Home from "./components/Home";
 import AboutMe from "./components/AboutMe";
-import Timeline from "./components/Timeline";
-import Work from "./components/Work";
-import Skills from "./components/Skills";
+import JavaProject from "./components/JavaProject";
+import FrontEndProject from "./components/FrontEndProject";
 import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
 import Footer from "./components/Footer";
@@ -31,10 +30,9 @@ function App() {
       <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Home ratio={ratio} />
-      <Work />
-      <Timeline />
       <AboutMe />
-      <Skills />
+      <FrontEndProject />
+      <JavaProject />
       <Contact />
       <Toaster />
       <Footer />

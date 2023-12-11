@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "title": "ECOMMERCE WEB APP",
+      "description": "The Full-Stack E-commerce Project is a comprehensive web application developed using a robust stack that combines Spring Boot and MySQL for the backend, incorporating JWT (JSON Web Tokens) and Spring Security for secure authentication. On the frontend, the project utilizes Angular with TypeScript, Tailwind CSS for styling, and Angular Store for state management.",
+      "cilentSideCode": "https://github.com/rohit-004/unsocial-webapp",
+      "serverSideCode": "https://github.com/rohit-004/unsocial-server",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/12/11/19/19/rohit-8444302_1280.jpg"
+    },
+    {
+      "title": "ECOMMERCE WEB APP",
+      "description": "The E-commerce Project seamlessly integrates the Razorpay payment gateway to facilitate a secure and efficient checkout process. Leveraging the Razorpay API, the checkout and payment pages are seamlessly embedded into the application.",
+      "cilentSideCode": "https://github.com/rohit-004/unsocial-webapp",
+      "serverSideCode": "https://github.com/rohit-004/unsocial-server",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/12/11/19/19/rohit-8444304_1280.jpg"
+    },
+    {
+      "title": "ECOMMERCE WEB APP",
+      "description": "The Admin Dashboard is a powerful component of the E-commerce Project, providing administrators with comprehensive tools to manage products, monitor user activity, and handle order processing efficiently.",
+      "cilentSideCode": "https://github.com/rohit-004/unsocial-webapp",
+      "serverSideCode": "https://github.com/rohit-004/unsocial-server",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/12/11/19/19/rohit-8444305_1280.jpg"
+    },
+    {
+      "title": "UNSOCIAL WEB APP",
+      "description": "An Unsocial Web App, crafted with Spring Boot, MySQL, JWT tokens, Spring Security for the backend, and React with Tailwind CSS, TypeScript, Material-UI, Redux, Formik, and Axios for the frontend",
+      "cilentSideCode": "https://github.com/rohit-004/ecommerce-anudip",
+      "serverSideCode": "https://github.com/rohit-004/ecommerce-server",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/12/11/19/19/19-19-54-74_1280.jpg"
+    },
+    {
+      "title": "UNSOCIAL WEB APP",
+      "description": "Upon logging in, users are welcomed to the vibrant and dynamic Home Page of the Unsocial Web App. The design focuses on simplicity, intuitive navigation, and a visually appealing layout that encourages users to explore, connect, and engage with the platform.",
+      "cilentSideCode": "https://github.com/rohit-004/ecommerce-anudip",
+      "serverSideCode": "https://github.com/rohit-004/ecommerce-server",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/12/11/19/19/19-19-54-646_1280.jpg"
+    },
+    {
+      "title": "UNSOCIAL WEB APP",
+      "description": "The Profile Page serves as the digital canvas for users within the Unsocial Web App, offering a personalized space where they can manage their details, showcase their content, and explore their interactions on the platform.",
+      "cilentSideCode": "https://github.com/rohit-004/ecommerce-anudip",
+      "serverSideCode": "https://github.com/rohit-004/ecommerce-server",
+      "imgSrc": "https://cdn.pixabay.com/photo/2023/12/11/19/19/rohit-8444306_1280.jpg"
+    }
+  ]
+}

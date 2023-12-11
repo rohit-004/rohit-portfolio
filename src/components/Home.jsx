@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
-import me from "../assests/logo1.png";
+import me from "../assests/logo.png";
 
 const Home = ({ ratio }) => {
   const projectCount = useRef(null);
@@ -60,7 +60,7 @@ const Home = ({ ratio }) => {
 
           <div>
             <a href="mailto:rohitkandari1977@gmail.com">Hire Me</a>
-            <a href="#work">
+            <a href="#jproject">
               Projects <BsArrowUpRight />
             </a>
           </div>

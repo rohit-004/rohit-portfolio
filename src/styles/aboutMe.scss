@@ -50,12 +50,20 @@
         background-color: $color1;
   
         > h3 {
-          font: 100 5rem $text1;
+          font: 700 2rem $text1;
+          margin-bottom: 30px;
         }
         > p {
-          font: 700 1.2rem $text2;
-          letter-spacing: 3px;
+          font: 500 1.2rem $text2;
+          text-align: center;
+          padding: 30px;
+          letter-spacing: 1px;
         }
+      }
+      .icons{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
       }
       .serviceBox4 {
         grid-column: 2/4;

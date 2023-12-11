@@ -1,41 +1,40 @@
 {
   "projects": [
     {
-      "date": "07/10/2022",
-      "title": "TECHY STAR",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://reactone-nine.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
-    },
-
-    {
-      "date": "11/10/2022",
-      "title": "VIDEO HUB",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-video-app-eight.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
-    },
-    {
-      "date": "15/10/2022",
       "title": "XCrypto",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-crypto-app-pi.vercel.app",
+      "description": "The Crypto App project is an engaging and informative web application developed using a stack that includes React, React Router, Chakra UI, and Chart.js. This project aims to provide users with a visually appealing and user-friendly interface for tracking and analyzing cryptocurrency data.",
+      "url": "https://rohit-004.github.io/Crypto-app/",
+      "link": "https://github.com/rohit-004/Crypto-app",
       "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
     },
 
     {
-      "date": "17/10/2022",
-      "title": "REACT CART",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-eosin.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      "title": "THE WORLD",
+      "description": "The World Countries Explorer is a straightforward web application crafted with React and Axios, designed to provide users with an interactive interface to explore a comprehensive list of countries worldwide. The app offers users the ability to effortlessly filter countries based on their regions and names, enhancing the browsing experience.",
+      "url": "https://the-world.vercel.app/",
+      "link": "https://github.com/rohit-004/the-world",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/08/24/14/29/earth-1617121_1280.jpg"
     },
     {
-      "date": "20/10/2022",
       "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "The React Portfolio Website with Sass and Firebase Contact Form is a dynamic and professional online portfolio designed to showcase your skills, projects, and accomplishments. This modern web application incorporates React for a seamless and interactive user interface, Sass for efficient and organized styling, and Firebase to handle the contact form submissions securely.",
       "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      "link": "https://github.com/rohit-004/rohit-portfolio",
+      "imgSrc": "https://cdn.pixabay.com/photo/2021/02/02/12/22/cv-5973796_1280.png"
+    },
+    {
+      "title": "VIDEO HUB",
+      "description": "The Video Hub App is a feature-rich web application developed with React, Chakra UI, and functionalities for uploading and watching videos. It also includes a dynamic theming system that supports both dark and light themes, providing users with a personalized viewing experience.",
+      "url": "https://react-video-hub-five.vercel.app/",
+      "link": "https://github.com/rohit-004/react-video-hub",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "title": "GOOGLE CLONE",
+      "description": "The Google Clone project is a web application built using the React JavaScript library, designed to replicate the core functionality and appearance of the popular Google search engine. This project serves as a hands-on exercise for developers to enhance their React skills and gain a deeper understanding of building user interfaces.",
+      "url": "https://google-clone-nine-lyart.vercel.app/",
+      "link": "https://github.com/rohit-004/google-clone",
+      "imgSrc": "https://cdn.pixabay.com/photo/2013/01/29/00/47/google-76517_1280.png"
     }
   ]
 }

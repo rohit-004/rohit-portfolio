@@ -30,24 +30,21 @@ const NavContent = ({ setMenuOpen }) => (
       <a onClick={() => setMenuOpen(false)} href="#home">
         Home
       </a>
-      <a onClick={() => setMenuOpen(false)} href="#work">
-        Work
-      </a>
-      <a onClick={() => setMenuOpen(false)} href="#timeline">
-        Experience
-      </a>
       <a onClick={() => setMenuOpen(false)} href="#about_me">
         About Me
       </a>
-      <a onClick={() => setMenuOpen(false)} href="#skills">
-        Skills
+      <a onClick={() => setMenuOpen(false)} href="#feproject">
+        Projects
+      </a>
+      <a onClick={() => setMenuOpen(false)} href="#jproject">
+        Full Stack
       </a>
       <a onClick={() => setMenuOpen(false)} href="#contact">
         Contact
       </a>
     </div>
-    <a href="mailto:rohitkandari1977@gmail.com">
-      <button>Email</button>
+    <a target="blank" href="https://drive.google.com/file/d/1oCqeRABeIJiTan7eku33nQW_sokmNHEX/view?usp=sharing">
+      <button>Resume</button>
     </a>
   </>
 );

@@ -3,18 +3,18 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import data from "../assests/data.json";
 
-const Work = () => {
+const FrontEndProject = () => {
   return (
-    <div id="work">
-      <h2>WORK</h2>
+    <div id="feproject">
+      <h2>FRONT END PROJECTS</h2>
       <section>
         <article>
           <Carousel
-            showArrows={false}
+            showArrows={true}
             showIndicators={false}
             showStatus={false}
             showThumbs={false}
-            interval={2000}
+            interval={10000}
             infiniteLoop={true}
             autoPlay={true}
           >
@@ -24,9 +24,14 @@ const Work = () => {
                 <aside>
                   <h3>{i.title}</h3>
                   <p>{i.description}</p>
-                  <a target={"blank"} href={i.url}>
-                    View Demo
-                  </a>
+                  <div className="button">
+                    <a target={"blank"} href={i.url}>
+                      LIVE
+                    </a>
+                    <a target={"blank"} href={i.link}>
+                      CODE
+                    </a>
+                  </div>
                 </aside>
               </div>
             ))}
@@ -37,4 +42,4 @@ const Work = () => {
   );
 };
 
-export default Work;
+export default FrontEndProject;

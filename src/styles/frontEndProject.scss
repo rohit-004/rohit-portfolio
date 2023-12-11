@@ -1,4 +1,4 @@
-#work {
+#feproject {
     width: 100%;
     height: 100vh;
     padding: 8rem $p;
@@ -49,18 +49,23 @@
   
           > p {
             letter-spacing: 3px;
-            line-height: 180%;
+            line-height: 150%;
             margin: 2rem;
           }
-          > a {
-            background-color: $color3;
-            padding: 0.7rem 2rem;
-            margin: 2rem;
-            color: $color4;
-            transition: all 0.5s;
-            &:hover {
-              background-color: $color3_1;
-            }
+          .button{
+            display: flex;
+
+            > a {
+              background-color: $color3;
+              padding: 0.7rem 2rem;
+              margin: 2rem;
+              color: $color4;
+              transition: all 0.5s;
+              &:hover {
+                background-color: $color3_1;
+              }
+          }
+          
           }
         }
       }
