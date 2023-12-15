@@ -14,7 +14,7 @@ const JavaProject = () => {
             showIndicators={false}
             showStatus={false}
             showThumbs={false}
-            interval={10000}
+            interval={5000}
             infiniteLoop={true}
             autoPlay={true}
           >
